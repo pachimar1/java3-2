@@ -4,6 +4,6 @@ public class Main {
         double weight = 98;
         double height = 1.87;
         double index = service.calculate(weight, height);
-        System.out.println("Ваш индекс тела равен: " +index);
+        System.out.println("Ваш индекс тела равен: " + index);
     }
 }
